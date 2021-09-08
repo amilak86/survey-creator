@@ -74,7 +74,7 @@ export var enStrings = {
     translation: "Translation",
     saveSurvey: "Save Survey",
     saveSurveyTooltip: "Save Survey",
-    designer: "Survey Designer",
+    designer: "Questionnaire Designer",
     jsonEditor: "JSON Editor",
     undo: "Undo",
     redo: "Redo",
